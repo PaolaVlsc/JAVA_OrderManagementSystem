@@ -36,7 +36,7 @@ This project consists of:
 ![Saving](https://user-images.githubusercontent.com/87998374/230892468-a7d1144e-28cf-4f39-a926-50289021b822.png)
 
 ### 8. About developer
-![About developer](https://user-images.githubusercontent.com/87998374/230892631-87ee37d1-eec5-4940-b148-e626b2146703.png)
+![About developer](https://user-images.githubusercontent.com/87998374/230892777-dd84c94a-7895-4a6b-81f2-982c73cbaedb.png)
 
 
 # How to run 
