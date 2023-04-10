@@ -77,6 +77,7 @@ This project consists of 4 frames:
 * Open the unzipped folder in IntelliJ ( IntelliJ IDEA 2023.1 ) 
 * Go on to the main file where the main is: "OrderManagementSystem.java" 
 * Run the project ( Shift + f10 )
+* An example csv file is stored in the directory "Extra files"
 
 
 
