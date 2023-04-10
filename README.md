@@ -1,5 +1,4 @@
 # Order Management System - Java Application
-
 A final project for the subject "Software Development Methodologies" at University of West Attica 2020. 
 A Java application with a Graphical User Interface (GUI) that can manage orders. The orders can be stored and be read from csv files.
 
