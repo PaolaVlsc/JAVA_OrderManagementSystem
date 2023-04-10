@@ -1,7 +1,7 @@
 # Order Management System - Java Application
 
-#A
-##A
+# A
+## A
 ### A
 #### A 
 A final project for the subject "Software Development Methodologies" at University of West Attica 2020. 
