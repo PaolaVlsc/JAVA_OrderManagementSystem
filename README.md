@@ -81,6 +81,11 @@ This project consists of 4 frames:
 
 
 
+# Extras
+* Εκφώνηση: [Εκφώνηση](https://github.com/urmrs98/OrderManagementSystem/blob/master/extra%20files/OrderManagementSystem_screenshots.pdf)
+* Report paper: [Report paper](https://github.com/urmrs98/OrderManagementSystem/blob/master/extra%20files/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20Java.pdf)
+
+
 
 
 
