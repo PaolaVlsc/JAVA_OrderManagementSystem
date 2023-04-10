@@ -17,24 +17,39 @@ This project consists of:
 # Application UI - Screenshots
 
 #### 1. Main Frame
-![Main Frame](https://user-images.githubusercontent.com/87998374/230890580-a158002c-d6e5-48f2-868b-d5acde69d8a3.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230898690-674ead1d-8473-4057-9ec4-c67a0054f4b4.png" alt="Main Frame" width="50%">
+</p>
 
 #### 2. Items Menu
-![Items Menu](https://user-images.githubusercontent.com/87998374/230891739-9764e4a8-8558-454b-8ebc-69089969a914.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230898646-a6437b48-5a16-47d6-b964-9a82c9486062.png" alt="Items Menu" width="50%">
+</p>
 
 #### 3. Open Imported CSV
-![Imported CSV](https://user-images.githubusercontent.com/87998374/230892000-fdb24ef3-e138-48ca-8460-b281f1f087d3.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230898570-440a1b9d-451f-40e7-9234-8927d8871094.png" alt="Open Imported CSV" width="50%">
+</p>
 
 #### 4. Imported CSV - Appearance in the app
-![Imported CSV](https://user-images.githubusercontent.com/87998374/230892052-0f99ff36-c891-4d0b-b3e6-1cb1333a4099.png)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230898495-538700a8-879d-44c6-8345-594783eae3a6.png" alt="Imported CSV" width="50%">
+</p>
+ 
 #### 5. Add new order
-![new order](https://user-images.githubusercontent.com/87998374/230892169-d0b5be37-6e9a-4833-8efb-309ee780659f.png)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230898437-7c480856-f3bb-4ef6-bb5e-1d0f09cdb0ab.png" alt="Add new order" width="50%">
+</p>
+ 
 #### 6. Order Statistics
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/87998374/230897945-aa9a8691-5cc2-43f6-9b92-fdbd5c7a531d.png" alt="Order Statistics" width="35%">
+<img src="https://user-images.githubusercontent.com/87998374/230897945-aa9a8691-5cc2-43f6-9b92-fdbd5c7a531d.png" alt="Order Statistics" width="25%">
 </p>
 
 #### 7. Saving
