@@ -32,17 +32,24 @@ This project consists of:
 ![new order](https://user-images.githubusercontent.com/87998374/230892169-d0b5be37-6e9a-4833-8efb-309ee780659f.png)
 
 #### 6. Order Statistics
-![Order Statistics](https://user-images.githubusercontent.com/87998374/230892359-627937da-7e4b-428c-8e70-640da1114416.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230897945-aa9a8691-5cc2-43f6-9b92-fdbd5c7a531d.png" alt="Order Statistics" width="35%">
+</p>
 
 #### 7. Saving
-![Saving](https://user-images.githubusercontent.com/87998374/230892468-a7d1144e-28cf-4f39-a926-50289021b822.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230897805-67e03d5b-10ef-4ef7-8729-ba1a8aee7789.png" alt="Saving" width="35%">
+</p>
 
 #### 8. About developer
-![About developer](https://user-images.githubusercontent.com/87998374/230892777-dd84c94a-7895-4a6b-81f2-982c73cbaedb.png)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87998374/230897567-230c6b10-2d38-4660-b2ef-22c6789dfd8d.png" alt="About developer" width="35%">
+</p>
 
 # How to run 
-
 
 
 
