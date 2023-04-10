@@ -1,18 +1,25 @@
 # Order Management System - Java Application
 
 A final project for the subject "Software Development Methodologies" at University of West Attica 2020. 
-A Java application with a Graphical User Interface (GUI) that can manage orders. The orders can be stored and read from files.
+A Java application with a Graphical User Interface (GUI) that can manage orders. The orders can be stored and be read from csv files.
 
-This project consists of: 
+This project consists of 4 frames: 
 
-*
-*
-*
-*
+* Main Frame - Show all infos of the orders
+* New Order Frame  - A user can add a new order
+* Statistics Frame - Show statistics of orders
+* About Frame - Show info about the app and the developer
 
 
 # Technologies used 
 
+* JAVA 
+* AWT 
+* Swing
+* Event - Listener - Handler
+* Anonymous inner class
+* Inner class
+* ArrayList, JScrollPane, JTextArea, JLabel, JButton, JMenuItem, Accelerator
 
 # Application UI - Screenshots
 
@@ -65,6 +72,11 @@ This project consists of:
 </p>
 
 # How to run 
+
+* Download / Save the code in your local disk 
+* Open the unzipped folder in IntelliJ ( IntelliJ IDEA 2023.1 ) 
+* Go on to the main file where the main is: "OrderManagementSystem.java" 
+* Run the project ( Shift + f10 )
 
 
 
